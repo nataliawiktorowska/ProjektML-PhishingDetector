@@ -1,0 +1,28 @@
+# ========================
+# ZBIORY DANYCH I ARCHIWA
+# ========================
+dataset/
+*.zip
+*.tar
+*.gz
+
+
+
+# ========================
+# PYTHON I ŚRODOWISKA
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# ========================
+# IDE I SYSTEM OPERACYJNY
+# ========================
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
